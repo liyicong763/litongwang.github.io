@@ -1,4 +1,4 @@
-# litongwang.github.io
+# Forbes Athlete Salary Level Analysis
 litongwang Tableau
 # Introduction to Visualization
 This is a Forbes list of all types of athletes that visualizes the salary data of all athletes. We compare salaries online and offline. 
